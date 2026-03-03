@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi, I'm Earlin Tasia Gulo👋</h1>
 <div>
   
   <p align="center">
@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-bangben
-</p>
+Information Technology student at Universitas Sumatera Utara.
+Currently learning and growing in the field of technology.</p>
 
 
 <div align="center">

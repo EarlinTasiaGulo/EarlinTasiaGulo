@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+![Header](/github-header-banner.png)
 
 ###
 
@@ -26,20 +26,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EarlinTasiaGulo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=EarlinTasiaGulo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
@@ -49,4 +35,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EarlinTasiaGulo/EarlinTasiaGulo/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<a href="https://instagram.com/earlin.gl" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="earlin"/></a> 
+
+
+### My GitHub Stats:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EarlinTasiaGulo&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EarlinTasiaGulo&theme=dark&hide_border=true"  />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EarlinTasiaGulo&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=dark&count_private=true" alt="aldrvk" width="420"/>
+</p>

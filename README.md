@@ -1,6 +1,15 @@
 <h1 align="center">Hey 👋What's Up?</h1>
+<div>
+  
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/EarlinTasiaGulo/EarlinTasiaGulo/main/github-header-banner.png?v=1" width="100%" />
+</p>
+</div>
 
-###
+<p align="center">
+  nanti edit yg ini aja deskripsi diri mu
+</p>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />

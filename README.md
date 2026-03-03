@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  nanti edit yg ini aja deskripsi diri mu
+bangben
 </p>
 
 

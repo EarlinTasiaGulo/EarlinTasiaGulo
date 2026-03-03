@@ -33,10 +33,19 @@
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
-###
+### My GitHub Stats:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EarlinTasiaGulo&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EarlinTasiaGulo&theme=dark&hide_borderEarlinTasiaGulo=true"  />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EarlinTasiaGulo&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=dark&count_private=true" alt="EarlinTasiaGulo" width="420"/>
+</p>
 
 
-###
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EarlinTasiaGulo/EarlinTasiaGulo/output/pacman-contribution-graph-dark.svg">
